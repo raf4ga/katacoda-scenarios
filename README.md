@@ -1,10 +1,18 @@
-# Ansible 101 para DevOps
-Curso de KataCoda para introducir a cualquiera que quiera a la herramienta para automatización conocida como Ansible.
+# DevOps Tenerife - Katacoda Scenarios
 
-A través de este curso se aprenderá la estructura de directorios base para ejecutar un Playbook simple de Ansible, así como la 
-estructura básica necesaria para crear un rol. 
+¡Visita https://www.katacoda.com/raf4ga para ir a nuestro perfil y realizar los escenarios!
 
-El curso también incorpora una serie de ejercicios para realizar de manera autónoma, investigando un poco a base de consultar 
-recursos disponibles en la propia web de Ansible.
+## Escenario de Ansible (ansible-101) 
+Escenario introductorio de Ansible que explica cómo funcionan los playbooks y cómo crear tu propio rol. 
 
-El curso está accesible en el siguiente [enlace](https://www.katacoda.com/raf4ga/scenarios/ansible-101)
+Puedes acceder directamente a través de este [enlace](https://www.katacoda.com/raf4ga/scenarios/ansible-101).
+
+## Escenario de Roles de Ansible (ansible-101-roles) 
+Escenario para aprender a utilizar funcionalidades de los Roles de Ansible que explica cómo funcionan los distintos directorios y cómo crear tu propio rol avanzado. 
+
+Puedes acceder directamente a través de este [enlace](https://www.katacoda.com/raf4ga/scenarios/ansible-101-roles).
+
+## Zona de Juegos de Ansible (ansible-playground) 
+Practica sin limitaciones (más que las que tiene el propio Katacoda) y crea tus roles de práctica de Ansible o prueba distintos módulos y funcionalidades a tu bola en este Playground.
+
+Puedes acceder directamente a través de este [enlace](https://www.katacoda.com/raf4ga/scenarios/ansible-playground).
