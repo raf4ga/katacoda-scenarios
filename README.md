@@ -7,5 +7,4 @@ estructura básica necesaria para crear un rol.
 El curso también incorpora una serie de ejercicios para realizar de manera autónoma, investigando un poco a base de consultar 
 recursos disponibles en la propia web de Ansible.
 
-El curso está accesible en el siguiente [enlace](https://katacoda.com/devopstf/scenarios/ansible-101)
-# katacoda-scenarios
+El curso está accesible en el siguiente [enlace](https://www.katacoda.com/raf4ga/scenarios/ansible-101)
