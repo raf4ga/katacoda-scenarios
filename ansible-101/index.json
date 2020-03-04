@@ -1,5 +1,5 @@
 {
-  "pathwayTitle": "DevOps 101 - Tenerife",
+  "pathwayTitle": "DevOps 101",
   "title": "Ansible 101 - Intro",
   "description": "Introducción rápida a Ansible para la configuración de máquinas. ¡Aprende cómo funciona Ansible, una herramienta muy utilizada para DevOps!",
   "difficulty": "Principiante",
@@ -30,7 +30,7 @@
     ],
     "intro": {
       "text": "stages/intro.md",
-      "credits": "DevOps TF - Óscar Díaz Domínguez"
+      "credits": "@raf4ga"
     },
     "finish": {
       "text": "stages/finish.md"
